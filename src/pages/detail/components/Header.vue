@@ -71,6 +71,7 @@ export default {
     color #fff
     background $bgColor
     font-size .32rem
+    z-index 2
     .header-fixed-back
       width 0.64rem
       text-align center
